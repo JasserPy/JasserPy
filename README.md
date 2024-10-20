@@ -1,12 +1,7 @@
 -👋 Hi, I’m @JasserPy  
 -👀 I’m interested in AI, data science, and software development  
--🌱 I’m currently learning advanced AI techniques and improving my skills in web development  
--💞️ I’m looking to collaborate on AI projects, data-driven apps, and Python-based solutions  
--📫 How to reach me:  
-  connect with me on LinkedIn "https://www.linkedin.com/in/mohamed-jasser-hamrouni-7186a0297/"
-  or follow me on IG:
-  https://www.instagram.com/jasser_hamrounii/
--😄 Pronouns: He/Him  
+-🌱 I’m currently learning advanced AI techniques and improving my skills in web development and others
+-💞️ I’m looking to collaborate on AI projects, data-driven apps, and Python-based solutions   
 -⚡ Fun fact: I love blending technology with creativity, from programming to video editing and design!
 -
 <!---
