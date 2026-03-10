@@ -1,5 +1,5 @@
 # 💫 About Me:
-Med Jasser is a 20-year-old Computing student passionate about technology and creativity. specializes in video editing, design, and programming, develloping
+Med Jasser is a 20-year-old Computing student passionate about technology and creativity. specializes in  design, and programming, develloping
 
 
 ## 🌐 Socials:
